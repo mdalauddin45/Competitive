@@ -22,10 +22,6 @@ int main()
     Alauddin
     int x;cin>>x;
     int ans=x%100;
-    if(x>=2000){
-        cout<< "K"<<setfill('0') <<setw(2)<<ans<<endl;
-    }else{
-        cout<< "J"<<setfill('0') <<setw(2)<<ans<<endl;
-    }
+    cout<< "K"<<setfill('0') <<setw(2)<<ans<<endl;
     return 0;
 }
