@@ -1,0 +1,1 @@
+{"name":"Local: insertion","url":"e:\\Competitive\\DS\\Array\\insertion.cpp","tests":[{"id":1725605599769,"input":"5\n10 30 40 20 60\n40","output":"10 30 40 20 60 40 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Competitive\\DS\\Array\\insertion.cpp","group":"local","local":true}
